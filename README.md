@@ -1,6 +1,5 @@
-# AtliQ_Hospitality_Analysis_Using_PowerBI
-An end-to-end Power BI project analyzing revenue performance for AtliQ Grands across Indian cities to uncover insights and optimize decision-making in the hospitality sector.
 # 🏨 AtliQ Hospitality Analysis using Power BI
+An end-to-end Power BI project analyzing revenue performance for AtliQ Grands across Indian cities to uncover insights and optimize decision-making in the hospitality sector.
 
 ### 📘 Project Overview
 This project is part of the **Codebasics Data Analytics Bootcamp**, created to deliver business insights for **AtliQ Grands**, a luxury hotel chain in India.  
