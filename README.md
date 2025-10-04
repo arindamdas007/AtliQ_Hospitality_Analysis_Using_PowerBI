@@ -9,7 +9,7 @@ The analysis uncovers trends in **revenue, occupancy, booking patterns, and gues
 ---
 
 ### ❗ Problem Statement
-AtliQ Grands, a leading five-star hotel chain in India, is losing market share and revenue in the luxury/business segment due to strong competitor strategies and ineffective management decisions. To address this, the management seeks to adopt Business and Data Intelligence for informed decision-making, but currently lacks an in-house analytics team.In response to this challenge, the management decided to onboard external data analytics expertise to uncover actionable insights from historical booking and revenue data. The goal is to build a centralized dashboard that empowers the revenue team to identify performance gaps, optimize pricing strategies, and improve channel efficiency across properties. The **Revenue Management Team** needed a **centralized Power BI dashboard** to:
+AtliQ Grands, a leading five-star hotel chain in India, is losing market share and revenue in the luxury/business segment due to strong competitor strategies and ineffective management decisions. To address this, the management seeks to adopt Business and Data Intelligence for informed decision-making, but currently lacks an in-house analytics team. In response to this challenge, the management decided to onboard external data analytics expertise to uncover actionable insights from historical booking and revenue data. The goal is to build a centralized dashboard that empowers the revenue team to identify performance gaps, optimize pricing strategies, and improve channel efficiency across properties. The **Revenue Management Team** needed a **centralized Power BI dashboard** to:
 - Track KPIs like *Occupancy %, RevPAR, ADR,* and *Guest Ratings*.  
 - Identify underperforming properties or booking channels.  
 - Provide actionable insights for pricing and operational improvements.
@@ -17,10 +17,10 @@ AtliQ Grands, a leading five-star hotel chain in India, is losing market share a
 ---
 
 ### 🎯 Objectives
-- Analyze AtliQ Grands' performance across major Indian cities.  
-- Understand revenue patterns and booking channel performance.  
-- Evaluate occupancy, cancellations, and guest satisfaction trends.  
-- Recommend strategic actions to improve profitability and efficiency.
+- Analyze AtliQ Grands' performance across major Indian cities.
+- Understand revenue patterns, pricing structures, and booking channel performance.
+- Evaluate occupancy, cancellations, and guest satisfaction trends.
+- Recommend dynamic pricing strategies and operational improvements to boost profitability.
 
 ---
 
