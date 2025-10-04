@@ -53,7 +53,7 @@ AtliQ Grands, a leading five-star hotel chain in India, is losing market share a
 
 #### 📦 **Booking View**
 - Examine booking channel distribution and cancellations.  
-- **Insight:** Other Channels performed best, while OTA channels faced higher cancellations.
+- **Insight:** Other Channels performed best, while OTA (online travel agency)channels faced higher cancellations.
 
 #### 🧑‍💼 **Executive View**
 - Consolidated KPIs and insights for management-level decisions.  
