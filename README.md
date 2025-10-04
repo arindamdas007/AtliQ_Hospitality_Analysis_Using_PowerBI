@@ -76,7 +76,7 @@ While exploring the data, I also experimented with **color themes, layout styles
 ---
 
 ### 📎 Deliverables
-- `Report/AtliQ_Hospitality_Analysis.pbix` – Power BI report file  
+- [`Report/AtliQ_Hospitality_Analysis.pbix`](https://app.powerbi.com/view?r=eyJrIjoiYzcwNGNjMzItM2YwNC00ZjgwLTk4YjktMjVkZGIyM2QwZTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – Power BI report file  
 - `Images/` – Dashboard screenshots  
 - `Documentation/AtliQ_Hospitality_Presentation.pptx` – Presentation deck  
 - `DAX_Measures/measures.md` – All DAX formulas used  
