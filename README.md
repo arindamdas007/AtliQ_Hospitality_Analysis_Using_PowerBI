@@ -9,9 +9,7 @@ The analysis uncovers trends in **revenue, occupancy, booking patterns, and gues
 ---
 
 ### ❗ Problem Statement
-AtliQ Grands, a luxury hotel chain, experienced a **decline in revenue and occupancy rates** in recent months despite steady customer traffic.  
-Management lacked a unified dashboard to monitor performance across cities, booking channels, and room categories.  
-The **Revenue Management Team** needed a **centralized Power BI dashboard** to:
+AtliQ Grands, a luxury hotel chain, experienced a **decline in revenue and occupancy rates** in recent months despite steady customer traffic. Management lacked a unified dashboard to monitor performance across cities, booking channels, and room categories. The **Revenue Management Team** needed a **centralized Power BI dashboard** to:
 - Track KPIs like *Occupancy %, RevPAR, ADR,* and *Guest Ratings*.  
 - Identify underperforming properties or booking channels.  
 - Provide actionable insights for pricing and operational improvements.
