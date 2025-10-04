@@ -61,24 +61,28 @@ AtliQ Grands, a leading five-star hotel chain in India, is losing market share a
 
 ---
 
-### 💡 Key Outcomes
-- Enhanced understanding of **city-level and channel-level performance**.  
-- Identified **pricing inefficiencies** and **cancellation trends**.  
-- Provided a **real-time dashboard** for executives to monitor operations.  
-- Delivered **strategic recommendations** to improve revenue and occupancy.
+#### 📊 **Quantitative Insights**
+
+- **Occupancy Rate**: Average occupancy across all hotels stood at 58.4%, with Delhi achieving the highest at 71% and Bangalore the lowest at 44.3%.
+- **Average Daily Rate (ADR)**: The ADR remained flat around ₹12,000, indicating a lack of dynamic pricing across seasons and weekends.
+- **Revenue Contribution**: Mumbai contributed nearly 35% of total revenue, leading all cities, while Hyderabad contributed the least.
+- **Cancellation Rate**: Average cancellation rate was 24%, with OTA (Online Travel Agency) channels showing the highest cancellations.
+- **Guest Ratings**: Properties with ratings above 4.0 stars maintained over 70% occupancy, whereas ratings below 3.0 saw drops below 50%, showing a clear positive correlation between ratings and occupancy.
 
 ---
 
-### 🎨 Design Approach
-While exploring the data, I also experimented with **color themes, layout styles, and navigation design** — balancing analytical storytelling with clean, professional aesthetics that align with the hospitality domain.  
-> *"I was playing with the data while also playing with color."* 🎨
+#### 💡 **Key Outcomes**
+
+- Identified need for **dynamic and weekend pricing** to boost revenue.
+- Highlighted **Delhi** and **Mumbai* as top-performing cities; **Bangalore** underperformed.
+- Found strong link between guest ratings and occupancy.
+- Revealed **high cancellation** rates on OTA channels.
+- Delivered an interactive Power BI dashboard for data-driven decisions.
 
 ---
 
 ### 📎 Deliverables
-- [`Report/AtliQ_Hospitality_Analysis.pbix`](https://app.powerbi.com/view?r=eyJrIjoiYzcwNGNjMzItM2YwNC00ZjgwLTk4YjktMjVkZGIyM2QwZTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – Power BI report file  
-- `Images/` – Dashboard screenshots  
+- [`Report/AtliQ_Hospitality_Analysis.pbix`](https://app.powerbi.com/view?r=eyJrIjoiYzcwNGNjMzItM2YwNC00ZjgwLTk4YjktMjVkZGIyM2QwZTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – Power BI report file    
 - `Documentation/AtliQ_Hospitality_Presentation.pptx` – Presentation deck  
-- `DAX_Measures/measures.md` – All DAX formulas used  
 
 ---
