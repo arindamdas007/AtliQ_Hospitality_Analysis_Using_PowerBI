@@ -82,6 +82,6 @@ AtliQ Grands, a leading five-star hotel chain in India, is losing market share a
 
 ### 📎 Deliverables
 - [`Report/AtliQ_Hospitality_Analysis.pbix`](https://app.powerbi.com/view?r=eyJrIjoiYzcwNGNjMzItM2YwNC00ZjgwLTk4YjktMjVkZGIyM2QwZTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) – Power BI report file    
-- `[Documentation/AtliQ_Hospitality_Presentation.pptx](https://www.linkedin.com/posts/arindamdas007_codebasicsresumechallenge-powerbi-dataanalytics-activity-7379204953283645441-mBc0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFK67-UBvAHcWbtIHdVOKSuddDxFCZteRoE)` – Presentation deck  
+- `https://www.linkedin.com/posts/arindamdas007_codebasicsresumechallenge-powerbi-dataanalytics-activity-7379204953283645441-mBc0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK67-UBvAHcWbtIHdVOKSuddDxFCZteRoE` – Presentation deck  
 
 ---
